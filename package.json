@@ -70,7 +70,7 @@
     "sinon-expect": "^0.3.0"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "request": "^2.88.0",
     "uuid": "^2.0.2"
   },
